@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guess the number!</title>
+    <link href="style.css" rel="stylesheet">
+    <script src="script.js" defer> </script>
+</head>
+
+<body>
+    <header>
+        
+        <button class="btn again"> Play Again!</button>
+        <button class="btn "> Between(1-20)</button>
+        <center>
+            <button class="btn minscore"> Minimum attmpet: <span class="minatm">20</button>
+
+        </center>
+    </header>
+    <center>
+
+        <h1 style="color: brown;">Guess The Number!</h1>
+        
+        <main>
+            <seaction class="left">
+                <div><hr> <button class="number">Guess_me?..</button></div>
+                <input type="number" class="input" autofocus > 
+                <p class="text">Start guessing..?..</p>
+                <button class="btn check"> Check!</button>
+            </seaction>
+
+            <section class="right">
+                <p class="chance">⏳ Remaning attmpet: <span class="score">20 </span> </p>
+                <p class="highscore">🔥  Attmpet: <span class="attmpet">00</span></p>
+                
+            </section>
+        </main>
+    </center>
+</body>
+
+<!-- <body>
+    <div id="container">
+
+        <p>Guess a number between 1 - 20.</p>
+        
+        <p id="outputtext">Enter a number below</p>
+        <p id ="attmpet">ATTEMPT: 0</p>
+           
+        <input type="text" id="userInput"><button id="btn">SUMIT</button>
+        
+        </div>
+</body> -->
+
+</html>

@@ -1,0 +1,117 @@
+header{
+    display: flex;
+    margin-left: 200px;
+    margin-top: 25px;
+    justify-content: space-between;
+    text-align: center;
+
+}
+
+.minscore{
+    color:#008248;
+    border-color: antiquewhite;
+}
+
+.again{
+    color: blue;
+    border-color: #fff;
+    
+}
+
+body {
+    /* background: linear-gradient(to right,#00FF6C,#00AAFF); */
+    background-color: #60B347;
+    color: #fff
+}
+P {
+    color: white;
+    font-size: 25px;
+
+}
+
+.check{
+    margin-bottom: 10px;
+    border-color: #fff;
+}
+
+.chance{
+    color: orange;
+    font-weight: 900;
+}
+
+.highscore{
+    color:purple;
+    font-weight: 900;
+}
+
+
+
+.input {
+
+    width: 100px;
+    margin: 20px auto;
+    padding: 25px;
+    font-size: larger;
+    font-weight: 900;
+    box-sizing: inherit;
+    border-color: #fff;
+
+}
+.number{
+    color: black;
+    padding: 30px;
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 15px;
+    border-color: black;
+}
+
+.btn {
+
+    margin: 5px auto auto 5px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+    font-style: italic;
+    cursor: pointer;
+
+}
+.text{
+    color: #822350;
+}
+
+
+.btn:hover {
+    color: #008248;
+    transition: 0.3s all ease;
+
+}
+
+/* .btn{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.label-score{
+    font-size: 30px;
+    font-weight: bolder;
+}
+.lebel-highscore{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.guess{
+    font-size: 20px;
+} */
+
+/* #container {
+
+    height: 275px;
+    border: 5px solid #F5E4C3;
+    width: 750px;
+    margin: auto;
+    text-align: center;
+
+} */
+
