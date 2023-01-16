@@ -1,6 +1,6 @@
 const Again = function again(){
 
-    let res = confirm("Are you want to Replay?");
+    let res = confirm("Do you wanna Replay?");
     if (res == true) {
         number = Math.floor(Math.random() * 20) + 1;
         //console.log(number);
