@@ -1,6 +1,6 @@
 header{
     display: flex;
-    margin-left: 200px;
+    margin-left: 25px;
     margin-top: 25px;
     justify-content: space-between;
     text-align: center;
@@ -35,7 +35,7 @@ P {
 }
 
 .chance{
-    color: orange;
+    color: orangered;
     font-weight: 900;
 }
 
