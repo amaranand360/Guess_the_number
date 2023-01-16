@@ -1,15 +1,24 @@
 header{
     display: flex;
-    margin-left: 1vh;
-    margin-top: 2vh;
+    margin-left: 0vh;
+    margin-top: 1vh;
     justify-content: space-between;
     text-align: center;
 
 }
 
+body {
+    /* background: linear-gradient(to right,#00FF6C,#00AAFF); */
+    background-color: #60B347;
+    color: #fff
+
+}
+
+
 .minscore{
     color:#008248;
     border-color: antiquewhite;
+    font-size: 10px;
 }
 
 .again{
@@ -18,11 +27,6 @@ header{
     
 }
 
-body {
-    /* background: linear-gradient(to right,#00FF6C,#00AAFF); */
-    background-color: #60B347;
-    color: #fff
-}
 P {
     color: white;
     font-size: 25px;

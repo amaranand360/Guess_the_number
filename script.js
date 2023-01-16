@@ -59,8 +59,9 @@ const checkbutton = function op() {
                 minatm = atm;
                 document.querySelector('.minatm').textContent = minatm;
             }
+            document.body.style.backgroundColor = "skyblue";
             playing = false;
-            document.body.style.backgroundColor = "pink";
+           
 
         }
         else if (input < number)    //Case:too Low!
