@@ -1,8 +1,8 @@
 
-# Guess the Number Game
+# Guess the Number Game 1234...
 
 This is a simple console-based game where the player has to guess a randomly generated number between 1 and 100.
-# Deception 
+# Description 📝
  This is a simple Game application.In this game you guess a number whth-in a range.
 your system will also predict a number. if Your Guess is match with system Guess than you will win. 
 It is designs using the basic concepts of JavaScript Logic.
@@ -12,7 +12,8 @@ It is designs using the basic concepts of JavaScript Logic.
 - The player will input their guess and the program will tell them if the guess was too high or too low
 - The player will continue to guess until they correctly guess the number, at which point the game will end and the player will be shown their score (number of guesses taken)
 
-# Live Demo
+# Live Demo 🚀
+To use Pig Game, simply visit the website at :  👈
 
 # Features
 - The game uses a random number generator to ensure the game is always different
@@ -23,3 +24,5 @@ It is designs using the basic concepts of JavaScript Logic.
 # Contributing
 If you would like to contribute to this project, feel free to submit a pull request or open an issue. Contributions are always welcome!
 
+# Contact 📞
+If you have any questions or comments about Pig Game, please contact us at: amaranand806@gmail.com 👈
