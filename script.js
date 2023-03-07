@@ -3,9 +3,9 @@ const Again = function again() {
     document.querySelector('body').style.background = 'linear-gradient(to right,#574bcd,#17eAd9,#41e975)';
     let res = confirm("Do you wanna Replay?");
     if (res == true) {
-        console.log(range);
+        //console.log(range);
         number = Math.floor(Math.random() * range) + 1;
-        console.log(number);
+        //console.log(number);
         rematm = range;
         atm = 0;
         playing=true;
@@ -40,13 +40,11 @@ const checkbutton = function op() {
         document.querySelector('.attmpet').textContent = ++atm;
         if (!input)     //Case:No input 
         {   
-            console.log("no input");
             document.querySelector('.text').textContent = "🔥 NO guess & No number!";
         }
 
         else if (rematm == 0)    //Case:too much attempt
         {   
-            console.log("too much input");
             document.querySelector('.text').textContent = "😂😂 You Lose the Game ! ";
             Again();
         }
@@ -102,9 +100,6 @@ const setRANGE =function limit(){
     document.querySelector('.attmpet').textContent = atm;
     document.querySelector('.minatm').textContent = minatm;
 
-    //document.querySelector('.text').textContent = "Start guessing..?..";
-    //document.querySelector('.number').textContent = 'Guess_me?..';
-    console.log(number);
     }
 };
 document.querySelector('.range').addEventListener('click', setRANGE);
