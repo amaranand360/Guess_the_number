@@ -5,11 +5,12 @@ header{
     justify-content: space-between;
     text-align: center;
 
+
 }
 
 body {
-    /* background: linear-gradient(to right,#00FF6C,#00AAFF); */
-    background-color: #60B347;
+    background: linear-gradient(to right,#574bcd,#17eAd9,#41e975);
+    /* background-color: #60B347; */
     color: #fff
 
 }
@@ -24,18 +25,27 @@ body {
 .again{
     color: blue;
     border-color: #fff;
-    
+}
+.range{
+    color:#822350;
+    border-color: #fff;
+
 }
 
-P {
+p {
     color: white;
     font-size: 25px;
+}
+.text {
+   
+    color: #822350;
 
 }
 
 .check{
     margin-bottom: 10px;
     border-color: #fff;
+    color: royalblue;
 }
 
 .chance{
@@ -80,9 +90,7 @@ P {
     cursor: pointer;
 
 }
-.text{
-    color: #822350;
-}
+
 
 
 .btn:hover {
@@ -90,7 +98,22 @@ P {
     transition: 0.3s all ease;
 
 }
+main {
+    text-align: center;
+    
+}
 
+@media (max-width:500px) {
+    .btn{
+    padding: 5px;
+    font-size: 16px;
+    font-weight: bolder;
+    }
+    p {
+        font-size: 18px;
+    }
+    
+}
 /* .btn{
     font-size: 30px;
     font-weight: bolder;
