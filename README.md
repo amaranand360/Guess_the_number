@@ -13,16 +13,22 @@ It is designs using the basic concepts of JavaScript Logic.
 - The player will continue to guess until they correctly guess the number, at which point the game will end and the player will be shown their score (number of guesses taken)
 
 # Live Demo 🚀
-To use Pig Game, simply visit the website at :  👈
+To use Pig Game, simply visit the website at :https://guess-the-number-game-by-amar.netlify.app/  👈
 
-# Features
+# 💻 Technologies Used
+- HTML
+- CSS
+- Java Script
+
+# 🎨Features
 - The game uses a random number generator to ensure the game is always different
 - The game keeps track of the player's score (number of guesses taken)
-- The game can be easily modified to use a different range of numbers (e.g. 1-50 or 1-1000)
-- It is also responsive website.
+- The game can be easily modified to use a different range of numbers (e.g. 1-50 or 1-100)
+- 
 
-# Contributing
-If you would like to contribute to this project, feel free to submit a pull request or open an issue. Contributions are always welcome!
+# 🤝Contributing
+- If you would like to contribute to this project, feel free to submit a pull request or open an issue. Contributions are always welcome!
+- If you have any questions or comments about this project, please feel free to contact me via email at : amar.anand0030@gmail.com
 
 # Contact 📞
-If you have any questions or comments about Pig Game, please contact us at: amaranand806@gmail.com 👈
+If you have any questions or comments about this project, please contact us at: amar.anand0030@gmail.com 👈
