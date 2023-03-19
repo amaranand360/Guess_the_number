@@ -19,11 +19,11 @@ body {
 .minscore{
     color:#008248;
     border-color: antiquewhite;
-    font-size: 10px;
+    font-size: 9px;
 }
 
 .again{
-    color: blue;
+    color:darkorchid;
     border-color: #fff;
 }
 .range{
@@ -54,7 +54,7 @@ p {
 }
 
 .highscore{
-    color:purple;
+    color:peru;
     font-weight: 900;
 }
 
@@ -102,15 +102,36 @@ main {
     text-align: center;
     
 }
+.intro{
+    text-align: center;
+
+}
+.intro p{
+    font-size: 14px;
+    color:purple;
+    cursor: pointer;
+    font-weight: 800;
+}
+.intro p:hover{
+    color: #348200cc;
+    scale: 1.05;
+}
+
+.intro a i{
+    color:blue;
+    font-size: 25px;
+    margin: 9px;
+
+}
 
 @media (max-width:500px) {
     .btn{
-    padding: 5px;
-    font-size: 16px;
+    padding: 3px;
+    font-size: 14px;
     font-weight: bolder;
     }
     p {
-        font-size: 18px;
+        font-size: 17px;
     }
     
 }

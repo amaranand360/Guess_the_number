@@ -52,7 +52,7 @@ const checkbutton = function op() {
         else if (input < 0 || input > range) // Case:input out of range.
         {   
             console.log("out of input");
-            document.querySelector('.text').textContent = " ~ ❔Your guess is out of Bound !";
+            document.querySelector('.text').textContent = "Your guess is out of Bound ❔";
         }
 
         else if (input == number) // case: Guess is correct.
@@ -72,7 +72,7 @@ const checkbutton = function op() {
 
         }
         else if (input < number)    //Case:too Low!
-            document.querySelector('.text').textContent = "🔥 You guess is too Low!";
+            document.querySelector('.text').textContent = "🔽 You guess is too Low!";
 
         else if (input > number)     //Case:too High!
         {
@@ -88,7 +88,7 @@ const setRANGE =function limit(){
     document.querySelector('body').style.background = 'linear-gradient(to right,#17eAd9,#6078ea)';
     let resp = confirm("Do you want to Set a Range?");
     if (resp == true){
-    range = prompt("Plz Enter your Max Range");
+    range = prompt("Plz Enter the valid Range");
     number = Math.floor(Math.random() * range) + 1;
     minatm = range;
     atm = 0;
