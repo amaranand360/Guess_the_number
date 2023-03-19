@@ -133,6 +133,10 @@ main {
     p {
         font-size: 17px;
     }
+    .check{
+        font-size: 18px;
+        padding: 10px;
+    }
     
 }
 /* .btn{
