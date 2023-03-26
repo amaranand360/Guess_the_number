@@ -35,3 +35,26 @@ To use Pig Game, simply visit the website at :https://guess-the-number-game-by-a
 
 # Contact 📞
 If you have any questions or comments about this project, please contact us at: amar.anand0030@gmail.com 👈
+
+screenshots 
+- <h3>Default functionality </h3>
+
+![Screenshot (63)](https://user-images.githubusercontent.com/122713145/227780647-f3241499-169c-4374-baef-d3fa4e965068.png)
+
+- <h3>Wining Moment functionality </h3>
+
+![Screenshot (60)](https://user-images.githubusercontent.com/122713145/227780252-1b1f878d-8296-427a-99e1-ff1413c0abc0.png)
+
+- <h3>Play Again functionality </h3>
+
+![Screenshot (61)](https://user-images.githubusercontent.com/122713145/227780257-8a1a68cb-6845-4d7d-9662-b17cfd9012b3.png)
+
+- <h3>Set Own Range functionality </h3>
+
+![Screenshot (62)](https://user-images.githubusercontent.com/122713145/227780288-7a07ca50-1016-4446-939e-358ecdca3991.png)
+
+![Screenshot (59)](https://user-images.githubusercontent.com/122713145/227780243-09eacc39-fabe-4506-adba-e05a25537906.png)
+
+
+
+
