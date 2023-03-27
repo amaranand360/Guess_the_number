@@ -1,4 +1,3 @@
-
 # Guess the Number Game 1234...
 
 This is a simple console-based game where the player has to guess a randomly generated number between 1 and 100.
@@ -34,6 +33,7 @@ To use Pig Game, simply visit the website at :https://guess-the-number-game-by-a
 - If you have any questions or comments about this project, please feel free to contact me via email at : amar.anand0030@gmail.com
 
 # Contact 📞
+
 If you have any questions or comments about this project, please contact us at: amar.anand0030@gmail.com 👈
 
 screenshots 
